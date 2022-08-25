@@ -1,5 +1,5 @@
-# Git
+# ALX pre-course practice
 
-## Learning Objectives
+## Contents
 
-* Learn how to use git and github
+* [0x03-git](/0x03-git)
